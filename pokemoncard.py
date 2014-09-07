@@ -1,5 +1,5 @@
-name = raw_input("what is your name ")
-health = raw_input("health ")
+name = raw_input("what is your name: ")
+health = raw_input("what is your health: ")
 health = int(health)
 while True:
     damage = raw_input("damage ")
